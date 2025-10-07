@@ -1,0 +1,46 @@
+﻿code,key
+frgb,Base of frozen ground layer
+wt03,Thunder
+wt04,"Ice pellets, sleet, snow pellets, or small hail"
+prcp,Precipitation
+wt05,Hail (may include small hail)
+wt06,Glaze or rime
+wt07,"Dust, volcanic ash, blowing dust, blowing sand, or blowing obstruction"
+wt08,Smoke or haze
+mdsf,Multiday snowfall total
+snwd,Snow depth
+wt09,Blowing or drifting snow
+dasf,Number of days included in the multiday snow fall total (MDSF)
+wdf1,Direction of fastest 1-minute wind
+wdf2,Direction of fastest 2-second wind
+wdf5,Direction of fastest 5-second wind
+pgtm,Peak gust time
+wt11,High or damaging winds
+tmax,Maximum temperature
+wt13,Mist
+frgt,Top of frozen ground layer
+dapr, Number of days included in the multiday precipitation total (MDPR)
+wsf2,Fastest 2-minute wind speed
+fmtm,Time of fastest mile or fastest 1-minute wind
+frth,Thickness of frozen ground layer
+acmh,Average cloudiness midnight to midnight from manual observations
+wsf5,Fastest 5-second wind speed
+snow,Snowfall
+wdfg,Direction of peak wind gust
+acsh,Average cloudiness sunrise to sunset from manual observations
+wt16,"Rain (may include freezing rain, drizzle, and freezing drizzle)"""
+tobs,Temperature at the time of observation
+wt17,Freezing rain
+wt18,"Snow, snow pellets, snow grains, or ice crystals"
+wt19,Unknown source of precipitation
+wsf1, Fastest 1-minute wind speed
+awnd,Average wind speed
+wsfg,Peak gust wind speed
+wt22,Ice fog or freezing fog
+wt01,"Fog, ice fog, or freezing fog (may include heavy fog)"
+wesd,Water equivalent of snow on the ground
+wt02,Heavy fog or heaving freezing fog (not always distinguished from fog)
+tavg,Average Temperature.
+tmin,Minimum temperature
+mdpr,"Multiday precipitation total (use with DAPR and DWPR, if available)"
+tsun,Total sunshine for the period
